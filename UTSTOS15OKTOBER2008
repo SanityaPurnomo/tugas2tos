@@ -5,7 +5,7 @@ NO 3
 1.Redistribusi bebas
   Program open source dapat digunakan secara bebas oleh siapapun baik
   untuk keperluan komersial maupun tidak dan tidak mendapatkan royalty atau
-  model pembayaran yang lain.
+  pembayaran dalam bentuk apapun.
 
 2.Source Code
   Program yang bersifat open source harus menyertakan source code dan harus mengijinkan
@@ -13,7 +13,13 @@ NO 3
    yang sudah jadi (dalam bentuk .exe atau .bin). Source Code maupun program jadi yang
   bersifat open source semestinya dapat di-download melalui internet tanpa ada biaya apapun.
 
-3.Lisensi tidak boleh melarang permodifikasian suatu software hasil modifikasi
+3.Lisensi 
+  Lisensi tidak boleh melarang permodifikasian suatu software hasil modifikasi
   Suatu program hasil modifikasi dari program open source tidak boleh
   menjadi tertutup. Program hasil modifikasi tersebut harus bersifat
   opensource juga.
+
+4. Tidak boleh ada diskriminasi terhadap suatu bidang ilmu tertentu
+  Didalam open source kita bebas menggunakan atau  memodifikasi suatu program untuk
+  sumbangkan kepada bidang ilmu manapun misalnya untuk ilmu matematika, kedokteran, dan
+  lain sebagainya asalkan untuk tujuan yang positif dan tidak merugikan orang lain.
