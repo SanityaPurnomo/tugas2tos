@@ -5,3 +5,8 @@ NO 3
 1. Program open source dapat digunakan secara bebas oleh siapapun baik
  untuk keperluan komersial maupun tidak dan tidak mendapatkan royalty atau
  model pembayaran yang lain.
+2. Source Code
+ Program yang bersifat open source harus menyertakan source code dan harus mengijinkan
+ distribusi source code tersebut seperti kita mengijinkan siapapun memakai program kita
+ yang sudah jadi (dalam bentuk .exe atau .bin). Source Code maupun program jadi yang
+ bersifat open source semestinya dapat di-download melalui internet tanpa ada biaya apapun.
