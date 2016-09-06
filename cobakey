@@ -1,0 +1,11 @@
+  1 git clone https://github.com/SanityaPurnomo/tugas2tos
+  2  cd tugas2tos/
+  3  ls -al
+  4  git init 
+  5  git add .
+  6  git commit -m "First commit"
+  7  git push -u origin master
+  8  clear
+  9  touch cobakey
+  10  history
+ 
