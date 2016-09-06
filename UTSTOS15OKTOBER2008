@@ -2,11 +2,18 @@ UTS TOS 15 OKTOBER 2008
 
 NO 3
 
-1. Program open source dapat digunakan secara bebas oleh siapapun baik
- untuk keperluan komersial maupun tidak dan tidak mendapatkan royalty atau
- model pembayaran yang lain.
-2. Source Code
- Program yang bersifat open source harus menyertakan source code dan harus mengijinkan
- distribusi source code tersebut seperti kita mengijinkan siapapun memakai program kita
- yang sudah jadi (dalam bentuk .exe atau .bin). Source Code maupun program jadi yang
- bersifat open source semestinya dapat di-download melalui internet tanpa ada biaya apapun.
+1.Redistribusi bebas
+  Program open source dapat digunakan secara bebas oleh siapapun baik
+  untuk keperluan komersial maupun tidak dan tidak mendapatkan royalty atau
+  model pembayaran yang lain.
+
+2.Source Code
+  Program yang bersifat open source harus menyertakan source code dan harus mengijinkan
+  distribusi source code tersebut seperti kita mengijinkan siapapun memakai program kita
+   yang sudah jadi (dalam bentuk .exe atau .bin). Source Code maupun program jadi yang
+  bersifat open source semestinya dapat di-download melalui internet tanpa ada biaya apapun.
+
+3.Lisensi tidak boleh melarang permodifikasian suatu software hasil modifikasi
+  Suatu program hasil modifikasi dari program open source tidak boleh
+  menjadi tertutup. Program hasil modifikasi tersebut harus bersifat
+  opensource juga.
